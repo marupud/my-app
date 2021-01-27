@@ -16,7 +16,7 @@ const useStyles = makeStyles((theme) => ({
   selectEmpty: {
     marginTop: theme.spacing(2)
   }
-}));
+}));  
 
 const App = ({ loading, list, films, getTotalPeopleList, getFilms }) => {
   const classes = useStyles();
