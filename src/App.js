@@ -47,7 +47,7 @@ const App = ({ loading, list, films, getTotalPeopleList, getFilms }) => {
   return (
     <div>
       {filteredList.length >0 &&
-      <div>
+      <div>  
 
       <FormControl className={classes.formControl}>
         <InputLabel id="demo-simple-select-label">Select</InputLabel>
