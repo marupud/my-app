@@ -1,0 +1,7 @@
+.inline {
+  display: inline-block;
+}
+.spacing {
+  padding: 10px 0;
+  margin: 0;
+}
